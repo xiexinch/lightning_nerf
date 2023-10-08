@@ -1,0 +1,3 @@
+checkpoints/*
+logs/*
+tiny_nerf_data.npz
